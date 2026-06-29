@@ -53,6 +53,6 @@ this.innerHTML="🌙";
 // Welcome Message
 window.onload=function(){
 
-alert("Welcome to STEM Opportunity Hub!");
+alert("Welcome to ASPIREHUB!");
 
 }
